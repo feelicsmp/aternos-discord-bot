@@ -3,10 +3,10 @@ FROM golang:1.18-alpine
 WORKDIR /app
 
 # expose available environment variables
-ENV DISCORD_TOKEN=""
-ENV ATERNOS_SESSION=""
-ENV ATERNOS_SERVER=""
-ENV MONGO_DB_URI=""
+ENV MTUxNTE5OTQ0NDAyOTgwMDU1MQ.GgNbjI.v4rwUcQmwKtSCxPEWT5zP42K4k-zbv3K4H8OW0=""
+ENV yzpzC5BGHEnYzaMwzRJtA4RfSyxGMOGrlOl2Fh50RPwFYrkFTtmygyNz5rxRULKa4NXujz9wSkFhFP2SDGkfRk5v83IP0GBEOiBn=""
+ENV feelicsmp.aternos.me:52887=""
+ENV mongodb+srv://feelicsmp_db_user:<db_password>@cluster0.nkaqpen.mongodb.net/?appName=Cluster0=""
 ENV PROXY=""
 
 # install dependencies
