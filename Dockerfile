@@ -3,9 +3,9 @@ FROM golang:1.18-alpine
 WORKDIR /app
 
 # expose available environment variables
-ENV DISCORD_TOKEN=""
+ENV MTUxNTE5OTQ0NDAyOTgwMDU1MQ.GeaLM-.en39DpnZ9gz-YjfBGikq3QwLsz_Avkgu9Dn9PQ=""
 ENV ATERNOS_SESSION=""
-ENV ATERNOS_SERVER=""
+ENV feelicsmp.aternos.me:52887=""
 ENV MONGO_DB_URI=""
 ENV PROXY=""
 
